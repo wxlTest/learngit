@@ -16,7 +16,7 @@ using System;
 namespace Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Sinks.Database
 {
     /// <summary>
-    /// Represents an event entry to be persisted in a database. master branch
+    /// Represents an event entry to be persisted in a database. master branch log
     /// </summary>
     public class EventRecord
     {
