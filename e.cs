@@ -16,7 +16,7 @@ using System;
 namespace Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Sinks.Database
 {
     /// <summary>
-    /// Represents an event entry to be persisted in a database.
+    /// Represents an event entry to be persisted in a database. commit
     /// </summary>
     public class EventRecord
     {
